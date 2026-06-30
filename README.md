@@ -8,12 +8,9 @@
 
 <p>
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-00BFFF?style=for-the-badge)
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Sim-6C63FF?style=for-the-badge)
-
-![AI First](https://img.shields.io/badge/AI-FIRST-00D9FF?style=for-the-badge)
-
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-00BFFF?style=for-the-badge) 
+![Open Source](https://img.shields.io/badge/Open%20Source-Sim-6C63FF?style=for-the-badge) 
+![AI First](https://img.shields.io/badge/AI-FIRST-00D9FF?style=for-the-badge) 
 ![Innovation](https://img.shields.io/badge/Inovação-Contínua-7B2FF7?style=for-the-badge)
 
 </p>
@@ -87,16 +84,11 @@ Ser uma referência nacional e internacional em desenvolvimento de soluções ba
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) •
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) •
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) •
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) •
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) •
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
 ---
@@ -143,7 +135,6 @@ Em nossos repositórios você encontrará projetos relacionados a:
 
 # 📈 Estatísticas
 
-> Configure substituindo **SEU_USUARIO** pelo usuário oficial da organização.
 
 <p align="center">
 
