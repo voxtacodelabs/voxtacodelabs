@@ -199,7 +199,7 @@ Em nossos repositórios você encontrará projetos relacionados a:
 
 <div align="center">
 
-<img src="docs/assets/logo/voxta-icon.png" width="90">
+<img src="docs/assets/logo/Logo.png" width="90">
 
 ## **Voxta CodeLabs Tecnologia Ltda.**
 
