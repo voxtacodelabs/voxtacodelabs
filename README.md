@@ -2,9 +2,7 @@
 
 <img src="docs/assets/banner/github-banner.png" width="100%" alt="Voxta CodeLabs">
 
-# 🚀 Voxta CodeLabs Tecnologia Ltda.
 
-### **Transformando Inteligência em Tecnologia**
 
 <p>
 
@@ -29,18 +27,15 @@ Nosso propósito é desenvolver soluções escaláveis que unem inovação, inte
 
 # 🤖 Conheça a Voxta AI
 
-<p align="center">
+<img src="docs/assets/avatar/voxta-ai.jpg" align="left" width="160" style="margin-right: 15px;" />
 
-<img src="docs/assets/avatar/voxta-ai.png" width="280">
 
-</p>
 
 > Olá!
 >
 > Eu sou a **Voxta AI**, a inteligência artificial oficial da Voxta CodeLabs.
 >
 > Estou aqui para apoiar o desenvolvimento de soluções inovadoras, compartilhar conhecimento e impulsionar projetos utilizando Inteligência Artificial, Engenharia de Software, Dados e Automação.
-
 ---
 
 # 🌎 Nossa Missão
@@ -187,7 +182,7 @@ Em nossos repositórios você encontrará projetos relacionados a:
 
 # 📬 Contato
 
-📧 contato@voxtacodelabs.com
+📧 voxtacodelabs@gmail.com
 
 🌐 https://voxtacodelabs.com
 
